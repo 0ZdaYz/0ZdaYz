@@ -1,4 +1,12 @@
-### Hi there 👋
+                                              ▒▒▄▀▀▀▀▀▄▒▒▒▒▒▄▄▄▄▄▒▒▒
+                    The HTTP error 404, more commonly called “404 error”, means that the page you are trying to open could not 
+                    be found on the server    ▒▐░▄░░░▄░▌▒▒▄█▄█▄█▄█▄▒
+                                              ▒▐░▀▀░▀▀░▌▒▒▒▒▒░░░▒▒▒▒
+                                              ▒▒▀▄░═░▄▀▒▒▒▒▒▒░░░▒▒▒▒
+                                              ▒▒▐░▀▄▀░▌▒▒▒▒▒▒░░░▒▒▒▒
+
+
+The HTTP error 404, more commonly called “404 error”, means that the page you are trying to open could not be found on the server
 
 <!--
 **0ZdaYz/0ZdaYz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
